@@ -1,3 +1,4 @@
 # Snake--Java
 The classic arcade game, and my first coding project
-May 2015
+
+Created May 2015 in Java.

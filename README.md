@@ -1,4 +1,4 @@
 # Snake
-The classic arcade game, and my first coding project
+High School Coding Project
 
 Created May 2015 in Java.
